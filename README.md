@@ -21,9 +21,4 @@ This repository contains code for enabling Bluetooth Serial communication on an 
 ## App used
 Arduino Bluetooth Controller
 
-### Software Setup
 
-1. **Clone this repository**:
-   ```sh
-   git clone https://github.com/yourusername/esp32-bluetooth-serial.git
-   cd esp32-bluetooth-serial
